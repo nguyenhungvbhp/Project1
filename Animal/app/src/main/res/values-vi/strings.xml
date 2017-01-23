@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Animal</string>
+    <string name="not_data">Chưa có danh sách yêu thích</string>
+    <string name="start">Bắt đầu</string>
+    <string name="exit">Thoát</string>
+    <string-array name="animals">
+        <item>Linh dương</item>
+        <item>Khỉ đầu chó</item>
+        <item>Gấu</item>
+        <item>Hải ly</item>
+        <item>Ong</item>
+        <item>Bò rừng</item>
+        <item>Chim sáo đen</item>
+        <item>Heo rừng</item>
+        <item>Trâu</item>
+        <item>Bò đực</item>
+        <item>Ong ghệ</item>
+        <item>Lạc đà</item>
+        <item>Mèo</item>
+        <item>Báo ghêpa</item>
+        <item>Tinh tinh</item>
+        <item>Vẹt mào</item>
+        <item>Bò</item>
+        <item>Giống chó sói</item>
+        <item>Cá sấu</item>
+        <item>Quạ</item>
+        <item>Nai</item>
+        <item>Chó</item>
+        <item>Cá heo</item>
+        <item>Lừa</item>
+        <item>Vịt</item>
+        <item>Chim ưng</item>
+        <item>Voi</item>
+        <item>Đà điểu châu úc</item>
+        <item>Chồn sương</item>
+        <item>Chim họ sẻ</item>
+        <item>Chim hồng hạc</item>
+        <item>Ruồi</item>
+        <item>Cáo</item>
+        <item>Ếch</item>
+        <item>Tắc kè</item>
+        <item>Vượn</item>
+        <item>Hươu cao cổ</item>
+        <item>Dê</item>
+        <item>Ngỗng</item>
+        <item>Khỉ đột</item>
+        <item>Châu chấu</item>
+        <item>Chim cộc trắng</item>
+        <item>Chuột lang</item>
+        <item>chuột đồng</item>
+        <item>Diều hâu</item>
+        <item>Nhím</item>
+        <item>Diệc</item>
+        <item>Hà mã</item>
+        <item>Quạ trùm đầu</item>
+        <item>Ngựa</item>
+        <item>Linh cẩu</item>
+        <item>Chó rừng</item>
+        <item>Báo đốm Mỹ</item>
+        <item>Kangaroo</item>
+        <item>Gấu túi</item>
+        <item>Lạc đà không bướu</item>
+        <item>Vượn cáo</item>
+        <item>Báo</item>
+        <item>Sư tử</item>
+        <item>Linh miêu</item>
+        <item>Chuột chũi</item>
+        <item>Chồn</item>
+        <item>Nai sừng</item>
+        <item>Muỗi</item>
+        <item>Đà điều châu Phi</item>
+        <item>Rái cá</item>
+        <item>Cú</item>
+        <item>Gấu trúc</item>
+        <item>Vẹt</item>
+        <item>Công trống</item>
+        <item>Chim cánh cụt</item>
+        <item>Chim trĩ</item>
+        <item>Lơn</item>
+        <item>Chim bồ câu</item>
+        <item>Báo sư tử</item>
+        <item>Thỏ</item>
+        <item>Gấu trúc bắc Mỹ</item>
+        <item>Qụa</item>
+        <item>Tê giác</item>
+        <item>Chim cổ đỏ</item>
+        <item>Trứng cá</item>
+        <item>Gà trống</item>
+        <item>Chim biển</item>
+        <item>Hải cẩu</item>
+        <item>Cừu</item>
+        <item>Rắn</item>
+        <item>Chim sẻ</item>
+        <item>Sóc</item>
+        <item>Cò</item>
+        <item>Thiên nga</item>
+        <item>Hổ</item>
+        <item>Chim bạc má</item>
+        <item>Chim túc căng</item>
+        <item>Gà tây</item>
+        <item>Rùa</item>
+        <item>Hải mã</item>
+        <item>Heo rừng châu phi</item>
+        <item>Ong vò vẻ</item>
+        <item>Cá voi</item>
+        <item>Ngỗng hoang dã</item>
+        <item>Chó sói</item>
+        <item>Chim gõ kiến</item>
+        <item>Bò Tây Tạng</item>
+        <item>Ngựa vằn</item>
+    </string-array>
+    <string-array name="fruits">
+        <item>	Quả táo	</item>
+        <item>	Quả mơ	</item>
+        <item>	Quả bơ	</item>
+        <item>	Quả chuối	</item>
+        <item>	Quả anh đào	</item>
+        <item>	Quả dừa	</item>
+        <item>	Quả mãng cầu	</item>
+        <item>	Quả sầu riêng	</item>
+        <item>	Quả sung	</item>
+        <item>	Quả nho	</item>
+        <item>	Quả bưởi	</item>
+        <item>	Quả ổi	</item>
+        <item>	Quả mít	</item>
+        <item>	Quả táo ta	</item>
+        <item>	Quả quất	</item>
+        <item>	Quả chanh vàng	</item>
+        <item>	Chanh vỏ xanh	</item>
+        <item>	Quả vải	</item>
+        <item>	Quả quýt	</item>
+        <item>	Quả xoài	</item>
+        <item>	Quả măng cụt	</item>
+        <item>	Quả chanh vàng	</item>
+        <item>	Quả cam	</item>
+        <item>	Quả đu đủ	</item>
+        <item>	Quả lạc tiên	</item>
+        <item>	Quả đào	</item>
+        <item>	Quả lê	</item>
+        <item>	Quả hồng	</item>
+        <item>	Quả dứa	</item>
+        <item>	Quả mận	</item>
+        <item>	Quả lựu	</item>
+        <item>	Quả chôm chôm	</item>
+        <item>	Quả mãng cầu xiêm	</item>
+        <item>	Quả dâu tây	</item>
+        <item>	Quả cà chua	</item>
+        <item>	Quả dưa hấu	</item>
+
+    </string-array>
+</resources>

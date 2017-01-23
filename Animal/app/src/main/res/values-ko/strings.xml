@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">Animal</string>
+    <string name="not_data">없음의 즐겨 찾기 목록 없음</string>
+    <string name="start">시작</string>
+    <string name="exit">출구</string>
+    <string-array name="animals">
+        <item>영양</item>
+        <item>개 코 원숭이</item>
+        <item>곰</item>
+        <item>비버</item>
+        <item>꿀벌</item>
+        <item>들소</item>
+        <item>찌 르 레 기	</item>
+        <item>멧돼지</item>
+        <item>버팔로</item>
+        <item>불	</item>
+        <item>땅벌</item>
+        <item>낙 타</item>
+        <item>고양이</item>
+        <item>치타</item>
+        <item>침팬지</item>
+        <item>앵무새</item>
+        <item>암소</item>
+        <item>코요테</item>
+        <item>악어</item>
+        <item>까마귀</item>
+        <item>사슴</item>
+        <item>개	</item>
+        <item>돌고래</item>
+        <item>당나귀</item>
+        <item>오리</item>
+        <item>이 글</item>
+        <item>코끼리</item>
+        <item>뮤	</item>
+        <item>흰 족제비</item>
+        <item>피리 새 류</item>
+        <item>플라밍고</item>
+        <item>비행</item>
+        <item>여우</item>
+        <item>개구리</item>
+        <item>게 코</item>
+        <item>긴 팔원숭이	</item>
+        <item>기린</item>
+        <item>염소</item>
+        <item>거 위</item>
+        <item>고릴라</item>
+        <item>메뚜기</item>
+        <item>논 병아리</item>
+        <item>기니</item>
+        <item>햄스터</item>
+        <item>호크</item>
+        <item>고슴도치</item>
+        <item>헤론</item>
+        <item>하 마</item>
+        <item>두건</item>
+        <item>말	</item>
+        <item>하이에나</item>
+        <item>자 칼</item>
+        <item>재규어</item>
+        <item>캥거루</item>
+        <item>코알라</item>
+        <item>이 라마	</item>
+        <item>여우 원숭이</item>
+        <item>레오 파 드</item>
+        <item>사자</item>
+        <item>살쾡이</item>
+        <item>두더지</item>
+        <item>몽구스</item>
+        <item>무스</item>
+        <item>모기</item>
+        <item>타조</item>
+        <item>오 터</item>
+        <item>올빼미</item>
+        <item>팬더</item>
+        <item>앵무새</item>
+        <item>공작</item>
+        <item>펭귄</item>
+        <item>꿩	</item>
+        <item>돼지</item>
+        <item>비둘기</item>
+        <item>푸 마</item>
+        <item>토끼</item>
+        <item>너구리</item>
+        <item>레이븐</item>
+        <item>코뿔소</item>
+        <item>로빈</item>
+        <item>명 태 알</item>
+        <item>수 탉</item>
+        <item>갈매기</item>
+        <item>인감</item>
+        <item>양	</item>
+        <item>뱀	</item>
+        <item>참새</item>
+        <item>다람쥐</item>
+        <item>황새</item>
+        <item>백조</item>
+        <item>타이거</item>
+        <item>가슴</item>
+        <item>큰부리새</item>
+        <item>터키</item>
+        <item>거북</item>
+        <item>해 마</item>
+        <item>혹 멧돼지</item>
+        <item>말 벌</item>
+        <item>고래</item>
+        <item>야생 거 위</item>
+        <item>늑대</item>
+        <item>딱따구리</item>
+        <item>야크</item>
+        <item>얼룩말</item>
+    </string-array>
+
+    <string-array name="fruit">
+        <item>	애플	</item>
+        <item>	살구	</item>
+        <item>	아보카도	</item>
+        <item>	바나나	</item>
+        <item>	체리	</item>
+        <item>	코코넛	</item>
+        <item>	커스터드 애플	</item>
+        <item>	두리안	</item>
+        <item>	무화과	</item>
+        <item>	포도	</item>
+        <item>	자 몽	</item>
+        <item>	구아바	</item>
+        <item>	잭 과일	</item>
+        <item>	대추	</item>
+        <item>	금 귤	</item>
+        <item>	레몬	</item>
+        <item>	라임	</item>
+        <item>	열매	</item>
+        <item>	관화	</item>
+        <item>	망고	</item>
+        <item>	망고스틴	</item>
+        <item>	멜론	</item>
+        <item>	오렌지	</item>
+        <item>	파파야	</item>
+        <item>	열정	</item>
+        <item>	복숭아	</item>
+        <item>	배	</item>
+        <item>	감	</item>
+        <item>	파인애플	</item>
+        <item>	매 화	</item>
+        <item>	석류	</item>
+        <item>	람 부탄	</item>
+        <item>	Soursop	</item>
+        <item>	딸기	</item>
+        <item>	토마토	</item>
+        <item>	수 박	</item>
+
+    </string-array>
+</resources>

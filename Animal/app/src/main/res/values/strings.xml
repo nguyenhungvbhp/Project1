@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">Animal</string>
+    <string name="not_data">No favorites list</string>
+    <string name="start">Starts</string>
+    <string name="exit">Exit</string>
+    <string-array name="animals">
+        <item>Antelope</item>
+        <item>Baboon</item>
+        <item>Bear</item>
+        <item>Beaver</item>
+        <item>Bee</item>
+        <item>Bison</item>
+        <item>Blackbird</item>
+        <item>Boar</item>
+        <item>Buffalo</item>
+        <item>Bull</item>
+        <item>Bumblebee</item>
+        <item>Camel</item>
+        <item>Cat</item>
+        <item>Cheetah</item>
+        <item>Chimpanzee</item>
+        <item>cockatoo</item>
+        <item>cow</item>
+        <item>coyote</item>
+        <item>crocodile</item>
+        <item>crow</item>
+        <item>deer</item>
+        <item>dog</item>
+        <item>dolphin</item>
+        <item>donkey</item>
+        <item>duck</item>
+        <item>eagle</item>
+        <item>elephant</item>
+        <item>emu</item>
+        <item>ferret</item>
+        <item>finch</item>
+        <item>flamingo</item>
+        <item>fly</item>
+        <item>fox</item>
+        <item>frog</item>
+        <item>gecko</item>
+        <item>gibbon</item>
+        <item>giraffe</item>
+        <item>goat</item>
+        <item>goose</item>
+        <item>gorilla</item>
+        <item>grasshopper</item>
+        <item>grebe</item>
+        <item>guinea</item>
+        <item>hamster</item>
+        <item>hawk</item>
+        <item>hedgehog</item>
+        <item>heron</item>
+        <item>hippopotamus</item>
+        <item>hooded </item>
+        <item>horse</item>
+        <item>hyena</item>
+        <item>jackal</item>
+        <item>jaguar</item>
+        <item>Kangaroo</item>
+        <item>koala</item>
+        <item>lama</item>
+        <item>Lemur</item>
+        <item>leopard</item>
+        <item>lion</item>
+        <item>lynx</item>
+        <item>mole</item>
+        <item>mongoose</item>
+        <item>moose</item>
+        <item>mosquito</item>
+        <item>ostrich</item>
+        <item>otter</item>
+        <item>owl</item>
+        <item>panda</item>
+        <item>parrot</item>
+        <item>peacock</item>
+        <item>penguin</item>
+        <item>pheasant</item>
+        <item>pig</item>
+        <item>pigeon</item>
+        <item>puma</item>
+        <item>rabbit</item>
+        <item>raccoon</item>
+        <item>raven</item>
+        <item>rhinpceros</item>
+        <item>robin</item>
+        <item>roe</item>
+        <item>rooster</item>
+        <item>seagull</item>
+        <item>seal</item>
+        <item>sheep</item>
+        <item>snake</item>
+        <item>sparrow</item>
+        <item>squirrel</item>
+        <item>stork</item>
+        <item>swan</item>
+        <item>tiger</item>
+        <item>tit</item>
+        <item>toucan</item>
+        <item>turkey</item>
+        <item>turtle</item>
+        <item>walrus</item>
+        <item>warthog</item>
+        <item>wasp</item>
+        <item>whale</item>
+        <item>wild goose</item>
+        <item>wolf</item>
+        <item>woodpecker</item>
+        <item>yak</item>
+        <item>zebra</item>
+    </string-array>
+
+    <string-array name="numbers">
+        <item>Zero</item>
+        <item>One</item>
+        <item>two</item>
+        <item>three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+        <item>Eleven</item>
+        <item>Twelve</item>
+        <item>Thirteen</item>
+        <item>Fourteen</item>
+        <item>Fifteen</item>
+        <item>Sixteen</item>
+        <item>Seventeen</item>
+        <item>Eighteen</item>
+        <item>Nineteen</item>
+    </string-array>
+
+    <string-array name="fruits">
+        <item>	Apple	</item>
+        <item>	Apricot	</item>
+        <item>	Avocado	</item>
+        <item>	Banana	</item>
+        <item>	Cherry	</item>
+        <item>	Coconut	</item>
+        <item>	Custard Apple	</item>
+        <item>	Durian	</item>
+        <item>	Fig	</item>
+        <item>	Grape	</item>
+        <item>	Grapefruit	</item>
+        <item>	Guava	</item>
+        <item>	Jackfruit	</item>
+        <item>	Jujube	</item>
+        <item>	Kumquat	</item>
+        <item>	Lemon	</item>
+        <item>	Lime	</item>
+        <item>	Lychee	</item>
+        <item>	Mandarin	</item>
+        <item>	Mango	</item>
+        <item>	Mangosteen	</item>
+        <item>	Melon	</item>
+        <item>	Orange	</item>
+        <item>	Papaya	</item>
+        <item>	Passion	</item>
+        <item>	Peach	</item>
+        <item>	Pear	</item>
+        <item>	Persimmon	</item>
+        <item>	Pineapple	</item>
+        <item>	Plum	</item>
+        <item>	Pomegranate	</item>
+        <item>	Rambutan	</item>
+        <item>	Soursop	</item>
+        <item>	Strawberry	</item>
+        <item>	Tomato	</item>
+        <item>	Watermelon	</item>
+    </string-array>
+</resources>

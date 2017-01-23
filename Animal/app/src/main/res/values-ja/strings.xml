@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">Animal</string>
+    <string name="not_data">いいえお気に入りリストはありません</string>
+    <string name="start">開始</string>
+    <string name="exit">出口</string>
+    <string-array name="animals">
+        <item>アンテロープ</item>
+        <item>マント ヒヒ</item>
+        <item>クマ</item>
+        <item>ビーバー</item>
+        <item>蜂</item>
+        <item>バイソン</item>
+        <item>ブラックバード</item>
+        <item>イノシシ</item>
+        <item>バッファロー</item>
+        <item>ブル</item>
+        <item>バンブルビー</item>
+        <item>ラクダ</item>
+        <item>猫</item>
+        <item>チーター</item>
+        <item>チンパンジー</item>
+        <item>オウム</item>
+        <item>牛</item>
+        <item>コヨーテ</item>
+        <item>ワニ</item>
+        <item>カラス</item>
+        <item>鹿</item>
+        <item>犬</item>
+        <item>イルカ</item>
+        <item>ロバ</item>
+        <item>鴨</item>
+        <item>イーグル</item>
+        <item>象</item>
+        <item>エミュー</item>
+        <item>フェレット</item>
+        <item>フィンチ</item>
+        <item>フラミンゴ</item>
+        <item>飛ぶ</item>
+        <item>フォックス</item>
+        <item>カエル</item>
+        <item>ヤモリ</item>
+        <item>ギボン</item>
+        <item>キリン</item>
+        <item>ヤギ</item>
+        <item>ガチョウ</item>
+        <item>ゴリラ</item>
+        <item>バッタ</item>
+        <item>カイツブリ</item>
+        <item>ギニア</item>
+        <item>ハムスター</item>
+        <item>ホーク</item>
+        <item>・ ザ ・ ヘッジホッグ</item>
+        <item>ヘロン</item>
+        <item>カバ</item>
+        <item>フード付き</item>
+        <item>馬</item>
+        <item>ハイエナ</item>
+        <item>ジャッカル</item>
+        <item>ジャガー</item>
+        <item>カンガルー</item>
+        <item>コアラ</item>
+        <item>・ ラマ</item>
+        <item>キツネザル</item>
+        <item>ヒョウ</item>
+        <item>ライオン</item>
+        <item>lynx</item>
+        <item>ほくろ</item>
+        <item>マングース</item>
+        <item>ムース</item>
+        <item>蚊</item>
+        <item>ダチョウ</item>
+        <item>カワウソ</item>
+        <item>フクロウ</item>
+        <item>パンダ</item>
+        <item>オウム</item>
+        <item>孔雀</item>
+        <item>ペンギン</item>
+        <item>キジ</item>
+        <item>豚</item>
+        <item>ピジョン</item>
+        <item>プーマ</item>
+        <item>ウサギ</item>
+        <item>アライグマ</item>
+        <item>レイヴン</item>
+        <item>ライピンセロス</item>
+        <item>ロビン</item>
+        <item>明太子</item>
+        <item>オンドリ</item>
+        <item>シーガル</item>
+        <item>シール</item>
+        <item>羊</item>
+        <item>ヘビ</item>
+        <item>スズメ</item>
+        <item>リス</item>
+        <item>コウノトリ</item>
+        <item>スワン</item>
+        <item>タイガー</item>
+        <item>シジュウカラ</item>
+        <item>オオハシ</item>
+        <item>トルコ</item>
+        <item>カメ</item>
+        <item>セイウチ</item>
+        <item>イボイノシシ</item>
+        <item>ワスプ</item>
+        <item>クジラ</item>
+        <item>野生のガチョウ</item>
+        <item>オオカミ</item>
+        <item>キツツキ</item>
+        <item>ヤク</item>
+        <item>ゼブラ</item>
+    </string-array>
+
+    <string-array name="fruits">
+        <item>	アップル	</item>
+        <item>	アプリコット	</item>
+        <item>	アボカド	</item>
+        <item>	バナナ	</item>
+        <item>	チェリー	</item>
+        <item>	ココナッツ	</item>
+        <item>	カスタード ・ アップル	</item>
+        <item>	ドリアン	</item>
+        <item>	イチジク	</item>
+        <item>	ブドウ	</item>
+        <item>	グレープ フルーツ	</item>
+        <item>	グアバ	</item>
+        <item>	パラミツ	</item>
+        <item>	ナツメ	</item>
+        <item>	キンカン	</item>
+        <item>	レモン	</item>
+        <item>	ライム	</item>
+        <item>	ライチ	</item>
+        <item>	マンダリン	</item>
+        <item>	マンゴー	</item>
+        <item>	マンゴスチン	</item>
+        <item>	メロン	</item>
+        <item>	オレンジ	</item>
+        <item>	パパイヤ	</item>
+        <item>	情熱	</item>
+        <item>	ピーチ	</item>
+        <item>	梨	</item>
+        <item>	柿	</item>
+        <item>	パイナップル	</item>
+        <item>	梅	</item>
+        <item>	ザクロ	</item>
+        <item>	ランブータン	</item>
+        <item>	サワーサップ	</item>
+        <item>	イチゴ	</item>
+        <item>	トマト	</item>
+        <item>	スイカ	</item>
+
+    </string-array>
+</resources>
